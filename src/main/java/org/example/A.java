@@ -2,6 +2,6 @@ package org.example;
 
 public class A {
     public void A(){
-        System.out.println("this is A - devB update");
+        System.out.println("this is A - devC update");
     }
 }
